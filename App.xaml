@@ -1,0 +1,21 @@
+<Application x:Class="WinAiAgent.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Color x:Key="LightText">#222222</Color>
+            <Color x:Key="DarkText">#F0F0F0</Color>
+            <SolidColorBrush x:Key="TextForeground" Color="{StaticResource LightText}"/>
+            <SolidColorBrush x:Key="SearchIconBrush" Color="#666666"/>
+            <SolidColorBrush x:Key="SearchBorderBrush" Color="#1F000000"/>
+            <Color x:Key="SearchBackgroundTop">#B3FFFFFF</Color>
+            <Color x:Key="SearchBackgroundBottom">#80FFFFFF</Color>
+            <SolidColorBrush x:Key="ToastBackground" Color="#F2FFFFFF"/>
+            <SolidColorBrush x:Key="ToastForeground" Color="#222222"/>
+            <SolidColorBrush x:Key="AccentBrush" Color="#4F7BFF"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
+
+

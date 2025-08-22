@@ -1,0 +1,9 @@
+C:\Users\cheta\Music\Desktop\agent-8\WindowsSearchApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\cheta\Music\Desktop\agent-8\WindowsSearchApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\cheta\Music\Desktop\agent-8\WindowsSearchApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\cheta\Music\Desktop\agent-8\WindowsSearchApp\obj\Debug\net8.0-windows\WindowsSearchApp_MarkupCompile.cache
+C:\Users\cheta\Music\Desktop\agent-8\WindowsSearchApp\obj\Debug\net8.0-windows\WindowsSearchApp.g.resources
+C:\Users\cheta\Music\Desktop\agent-8\WindowsSearchApp\obj\Debug\net8.0-windows\WindowsSearchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheta\Music\Desktop\agent-8\WindowsSearchApp\obj\Debug\net8.0-windows\WindowsSearchApp.AssemblyInfoInputs.cache
+C:\Users\cheta\Music\Desktop\agent-8\WindowsSearchApp\obj\Debug\net8.0-windows\WindowsSearchApp.AssemblyInfo.cs
+C:\Users\cheta\Music\Desktop\agent-8\WindowsSearchApp\obj\Debug\net8.0-windows\WindowsSearchApp.csproj.CoreCompileInputs.cache
