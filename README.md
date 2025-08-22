@@ -1,6 +1,4 @@
-WindowsSearchApp
-
-Minimal Windows 11-style floating search overlay (WPF) with voice input and a FastAPI backend.
+**WinAiAgent**
 
 Run
 
@@ -20,3 +18,4 @@ To Use:
 
   * &nbsp;-Ctrl+space \[Hide/show]
   * &nbsp;-Ctrl+q     \[Close the app]
+
