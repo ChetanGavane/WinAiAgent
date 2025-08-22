@@ -11,7 +11,11 @@ Run
   - dotnet build
   - dotnet run
 
-Hotkey: Ctrl+Space toggles the overlay. Press Enter to send. Esc to hide.
+To Use:
+ -double click on 
+ -Ctrl+space [Hide/show]
+ -Ctrl+q     [Close the app]
+
 
 
 
