@@ -1,5 +1,4 @@
-WindowsSearchApp
-
+WinAiAgent
 Minimal Windows 11-style floating search overlay (WPF) with voice input and a FastAPI backend.
 
 Run
@@ -13,6 +12,7 @@ Run
   - dotnet run
 
 Hotkey: Ctrl+Space toggles the overlay. Press Enter to send. Esc to hide.
+
 
 
 
