@@ -11,10 +11,10 @@ Run
   - dotnet build
   - dotnet run
 
-To Use:
- -double click on 
- -Ctrl+space [Hide/show]
+To Use:\n
+ -Ctrl+space [Hide/show]\n
  -Ctrl+q     [Close the app]
+
 
 
 
