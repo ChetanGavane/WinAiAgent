@@ -39,11 +39,7 @@ To Use:
 
 **PROMPT:** Write a short note about LLMs and save to the desktop
 
-<https://github.com/user-attachments/assets/0faa5179-73c1-4547-b9e6-2875496b12a0>
-
-**PROMPT:** Change from Dark mode to Light mode
-
-<https://github.com/user-attachments/assets/47bdd166-1261-4155-8890-1b2189c0a3fd>
+<https://github.com/ChetanGavane/WinAiAgent/blob/main/videos/Untitled%20video%20-%20Made%20with%20Clipchamp%20(10).mp4>
 
 ## 📈 Grounding
 
@@ -70,6 +66,7 @@ Agent interacts directly with your Windows OS at GUI layer to perform actions. W
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
 
 
 
